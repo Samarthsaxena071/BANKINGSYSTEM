@@ -1,0 +1,54 @@
+
+.btn 
+{    
+    
+    padding: 1.5rem 9rem;
+    font-size: medium;
+
+}
+.featurette-heading
+{
+font-family: 'Ubuntu', sans-serif;
+font-size: xx-large;
+}
+.nidhi
+{
+     font-size: x-large;
+     color: black;
+     font-weight: bold;
+}
+.bd-placeholder-img
+{
+    
+    cursor: pointer;
+}
+.d-block w-100
+{
+    height: 50%;
+}
+#mansi
+{
+    font-size: xx-large;
+    color: white;
+    font-family: cursive;
+    
+}
+#s
+{
+    font-size: large;
+    color: white;
+    font-size: xx-large;
+    
+}
+#chetna
+{
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(bankemp1.jpeg);
+}
+.carousel-caption h1{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.carousel-caption p{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
